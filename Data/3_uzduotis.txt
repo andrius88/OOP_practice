@@ -1,0 +1,27 @@
+Sukurkite programą restoranui, leidžiančią klientams pateikti užsakymą ir už jį atsiskaityti nebendraujant su restorano darbuotojais.
+
+Pradiniai programos duomenys - informacija apie patiekalus yra pateikti kategorijos.txt ir patiekalai.txt tekstiniuose failuose.
+
+Failo kategorijos.txt turinys:
+
+    unikalus kategorijos identifikatorius
+    kategorijos pavadinimas
+
+Failo patiekalai.txt turinys:
+
+    unikalus patiekalo identifikatorius.
+    unikalus kategorijos identifikatorius.
+    patiekalo pavadinimas.
+    patiekalo kaina.
+    patiekalo aprašymas.
+    patiekalo paveikslėlio pavadinimas.
+
+Programa turi būti sukurta remiantis objektinio programavimo principais. Panaudoti dinaminius rinkinius (plačiau apie juos). Naudoti vartotojo grafinę sąsają (GUI). Programuotojas turi numatyti programos funkcionalumą, todėl funkcijų kiekis priklauso nuo Jūsų.
+
+Įvertinimas priklausys nuo programos sudėtingumo:
+
+    5 - 6 laikytasi objektinio programavimo principų, o aplikacija - konsolinė. Panaudoti statiniai rinkiniai (fiksuotis kiekis).
+    7 - 8 laikytasi objektinio programavimo principų, panaudota grafinė vartojo sąsaja, panaudoti statiniai rinkiniai.
+    9 - 10 laikytasi objektinio programavimo principų, panaudota grafinė vartojo sąsaja, panaudoti dinaminiai rinkiniai.
+
+Užduotį atlikti iki antros sesijos pradžios (lapkričio 25 d.).

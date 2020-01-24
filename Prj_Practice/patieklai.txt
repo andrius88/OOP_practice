@@ -1,0 +1,102 @@
+11
+1
+Pica Amerikana
+4.99
+Plėšyta virta viščiukų šlaunelių mėsa, pomidorų padažas, mocarela, barbekiu padažas, gražgarstės, vyšniniai pomidorai, kietasis sūris, saulėje džiovinti pomidorai, aliejaus ir česnakų padažas, raudonėliai.
+kat1_pat1_americana.jpg
+12
+1
+Pica Aštrioji
+4.99
+Malta jautiena, mocarela, raudonieji svogūnai, padažas "Taco", kons. svogūnėliai, kons. aitriosios paprikos, pomidorų padažas, aliejaus ir česnakų padažas, raudonėliai. 
+kat1_pat2_astrioji.jpg
+13
+1
+Pica Čempijonų
+4.99
+Virtas kiaulienos kumpis, saliamis, mocarela, pievagrybiai, juodosios alyvuogės, pomidorų padažas, petražolės, aliejaus ir česnakų padažas, raudonėliai.
+kat1_pat3_cempionu.jpg
+14
+1
+Pica Ferata
+4.99
+kat1_pat4_ferara.jpg
+Dešrelės, mocarela, karštai rūkyta šoninė, pomidorai, rūkytas lydytas sūris, "Cezario" padažas, petražolės, aliejaus ir česnakų padažas, raudonėliai.
+15
+1
+Pica Havajų
+4.99
+Virtas kiaulienos kumpis, kons. ananasai, pomidorų padažas, mocarela, aliejaus ir česnakų padažas, raudonėliai.
+kat1_pat5_havaju.jpg
+21
+2
+Kebabas su kiauliena
+3.49
+Lavašas, gruzdinti kiaulienos nugarinės gabaliukai, kopūstai, agurkai, kons. agurkai, pomidorai, raudonieji svogūnai, kečupas.
+kat2_pat1_kebabas-su-kiauliena.jpg
+22
+2
+Kebabas su vištiena
+3.49
+Lavašas, gruzdinti vištienos filė gabaliukai, kopūstai, agurkai, kons. agurkai, pomidorai, raudonieji svogūnai, kečupas.
+kat2_pat2_kebabas-su-vistiena.jpg
+23
+2
+Kebabo su kiauliena rinkinys
+4.49
+Rinkinį sudaro: kebabas su kiauliena, gruzdintos bulvių lazdelės, gėrimas 0,5l (Coca-cola, Coca-cola Zero, Sprite, Fanta). Padažas: česnakinis arba aštrus-česnakinis (mix).
+kat2_pat3_kebabas-su-kiauliena.jpg
+24
+2
+Kebabo su vištiena rinkinys
+4.49
+Rinkinį sudaro: kebabas su vištiena, gruzdintos bulvių lazdelės, gėrimas 0,5l (Coca-cola, Coca-cola Zero, Fanta, Sprite). Padažas: česnakinis arba aštrus-česnakinis (mix).
+kat2_pat4_kebabas-su-vistiena.jpg
+31
+3
+Klasikinio mėsainio rinkinys
+4.99
+Rinkinį sudaro: klasikinis mėsainis, gruzdintos bulvių lazdelės, gėrimas 0,5l (Coca-cola, Coca-cola Zero, Fanta, Sprite).
+kat3_pat1_klasikinis-rinkinys.png
+32
+3
+Klasikinis mėsainis
+3.99
+Mėsainio bandelė su sezamais, keptas jautienos maltinis, majonezo-barbekiu padažas, salotų lapai, konservuoti agurkai, aštrūs žalieji ankštpipiriai, sūris "Cheddar", raudonieji svogūnai, gruzdinta šaltai rūkyta šoninė.
+kat3_pat2_klasikinis.png
+33
+3
+Mėsainio su plėšyta jautiena rinkinys
+4.99
+Rinkinį sudaro: mėsainis su plėšyta jautiena, gruzdintos bulvių lazdelės, gėrimas 0,5L (Coca-cola, Coca-cola Zero, Fanta, Sprite).
+kat3_pat3_jautienos-rinkinys.png
+34
+3
+Mėsainis su plėšyta jautiena
+3.99
+Mėsainio bandelė su sezamais, plėšyta virta jautiena barbekiu padaže, konservuoti agurkai, BBQ padažas, raudonieji svogūnai, sūris "Cheddar", konservuotos raudonos aitriosios paprikos.
+kat3_pat4_jautiena.png
+35
+3
+PANKO mėsainio rinkinys
+4.99
+Rinkinį sudaro: PANKO mėsainis, gruzdintos bulvių lazdelės, gėrimas 0,5L (Coca-cola, Coca-cola Zero, Fanta, Sprite).
+kat3_pat5_panko-rinkinys.png
+41
+4
+Coca-cola 0,5l
+1.29
+Gazuotas gaivusis gėrimas Coca-cola 0,5L.
+kat4_pat1_coca-cola-0.5l.jpg
+42
+4
+Sriuba "Čili picos"
+2.29
+Malta jautiena, virtos pupelės, svogūnai, pomidorų pasta, kečupas, čili pipirai. Patiekiama su sūriu ir petražolėmis. (Aštri) 
+kat4_pat2_cili-sriuba.jpg
+43
+4
+Sriuba "Trinta meksikietiška"
+1.99
+Pomidorai, virtos pupelės, virtas faršas, kečupas, svogūnai, saldžiosios paprikos, česnakai, salierų stiebai. Patiekiama su sūriu.
+kat4_pat3_meksikietiska.jpg
